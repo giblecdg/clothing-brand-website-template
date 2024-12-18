@@ -18,7 +18,6 @@ A responsive and stylish template designed for showcasing clothing brands. This 
 clothing-brand-website-template/
 |-- images/
 |   |-- background.jpg
-|   |-- background2.jpg
 |   |-- favicon.png
 |   |-- white-hoodie.png
 |   |-- black-hoodie.png
